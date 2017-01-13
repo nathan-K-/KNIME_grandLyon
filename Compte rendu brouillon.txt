@@ -1,0 +1,5 @@
+Nettoyage :
+	- doublons (fait)
+	- photos upload avant d'être prises (ballek)
+	- photos avant 2000 (gps ?)
+
