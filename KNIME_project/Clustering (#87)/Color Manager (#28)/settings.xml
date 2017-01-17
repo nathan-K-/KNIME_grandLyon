@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="selected_column" type="xstring" value="Cluster"/>
+<entry key="is_nominal" type="xboolean" value="true"/>
+<entry key="Cluster_153" type="xint" value="-65536"/>
+<entry key="Cluster_146" type="xint" value="-62976"/>
+<entry key="Cluster_120" type="xint" value="-60416"/>
+<entry key="Cluster_150" type="xint" value="-57856"/>
+<entry key="Cluster_137" type="xint" value="-55296"/>
+<entry key="Cluster_138" type="xint" value="-52736"/>
+<entry key="Cluster_49" type="xint" value="-50176"/>
+<entry key="Cluster_143" type="xint" value="-47616"/>
+<entry key="Cluster_0" type="xint" value="-4260096"/>
+<entry key="Cluster_124" type="xint" value="-42752"/>
+<entry key="Cluster_145" type="xint" value="-40192"/>
+<entry key="Cluster_51" type="xint" value="-37632"/>
+<entry key="Cluster_1" type="xint" value="-6619392"/>
+<entry key="Cluster_149" type="xint" value="-32512"/>
+<entry key="Cluster_133" type="xint" value="-29952"/>
+<entry key="Cluster_142" type="xint" value="-27392"/>
+<entry key="Cluster_134" type="xint" value="-24832"/>
+<entry key="Cluster_141" type="xint" value="-22272"/>
+<entry key="Cluster_17" type="xint" value="-65287"/>
+<entry key="Cluster_31" type="xint" value="-13631744"/>
+<entry key="Cluster_2" type="xint" value="-16711877"/>
+<entry key="Cluster_106" type="xint" value="-12032"/>
+<entry key="Cluster_10" type="xint" value="-16725249"/>
+<entry key="Cluster_37" type="xint" value="-65394"/>
+<entry key="Cluster_4" type="xint" value="-11337473"/>
+<entry key="Cluster_96" type="xint" value="-2048"/>
+<entry key="Cluster_38" type="xint" value="-16711770"/>
+<entry key="Cluster_135" type="xint" value="-852224"/>
+<entry key="Cluster_86" type="xint" value="-1507584"/>
+<entry key="Cluster_76" type="xint" value="-2162944"/>
+<entry key="Cluster_16" type="xint" value="-65465"/>
+<entry key="Cluster_3" type="xint" value="-1966336"/>
+<entry key="Cluster_125" type="xint" value="-4129024"/>
+<entry key="Cluster_15" type="xint" value="-13696769"/>
+<entry key="Cluster_152" type="xint" value="-5439744"/>
+<entry key="Cluster_123" type="xint" value="-6095104"/>
+<entry key="Cluster_127" type="xint" value="-6750464"/>
+<entry key="Cluster_5" type="xint" value="-16770817"/>
+<entry key="Cluster_101" type="xint" value="-8061184"/>
+<entry key="Cluster_6" type="xint" value="-6684417"/>
+<entry key="Cluster_7" type="xint" value="-4325121"/>
+<entry key="Cluster_60" type="xint" value="-9961728"/>
+<entry key="Cluster_40" type="xint" value="-29184"/>
+<entry key="Cluster_8" type="xint" value="-16761857"/>
+<entry key="Cluster_128" type="xint" value="-11927808"/>
+<entry key="Cluster_50" type="xint" value="-12583168"/>
+<entry key="Cluster_9" type="xint" value="-16716289"/>
+<entry key="Cluster_109" type="xint" value="-13893888"/>
+<entry key="Cluster_33" type="xint" value="-16743681"/>
+<entry key="Cluster_68" type="xint" value="-15204608"/>
+<entry key="Cluster_90" type="xint" value="-15859968"/>
+<entry key="Cluster_74" type="xint" value="-16515328"/>
+<entry key="Cluster_118" type="xint" value="-16711929"/>
+<entry key="Cluster_12" type="xint" value="-15990529"/>
+<entry key="Cluster_11" type="xint" value="-16711806"/>
+<entry key="Cluster_99" type="xint" value="-16711900"/>
+<entry key="Cluster_13" type="xint" value="-65358"/>
+<entry key="Cluster_14" type="xint" value="-16734465"/>
+<entry key="Cluster_78" type="xint" value="-16711870"/>
+<entry key="Cluster_88" type="xint" value="-16711860"/>
+<entry key="Cluster_77" type="xint" value="-16711850"/>
+<entry key="Cluster_84" type="xint" value="-16711840"/>
+<entry key="Cluster_130" type="xint" value="-16711830"/>
+<entry key="Cluster_87" type="xint" value="-16711820"/>
+<entry key="Cluster_42" type="xint" value="-16711810"/>
+<entry key="Cluster_18" type="xint" value="-16711734"/>
+<entry key="Cluster_144" type="xint" value="-16711790"/>
+<entry key="Cluster_45" type="xint" value="-16711780"/>
+<entry key="Cluster_19" type="xint" value="-16752641"/>
+<entry key="Cluster_103" type="xint" value="-16711760"/>
+<entry key="Cluster_139" type="xint" value="-16711751"/>
+<entry key="Cluster_20" type="xint" value="-65500"/>
+<entry key="Cluster_67" type="xint" value="-16711731"/>
+<entry key="Cluster_21" type="xint" value="-8978177"/>
+<entry key="Cluster_64" type="xint" value="-16711711"/>
+<entry key="Cluster_73" type="xint" value="-16711701"/>
+<entry key="Cluster_55" type="xint" value="-16711691"/>
+<entry key="Cluster_22" type="xint" value="-2031361"/>
+<entry key="Cluster_59" type="xint" value="-16714241"/>
+<entry key="Cluster_23" type="xint" value="-16711699"/>
+<entry key="Cluster_35" type="xint" value="-65429"/>
+<entry key="Cluster_36" type="xint" value="-8913152"/>
+<entry key="Cluster_24" type="xint" value="-19968"/>
+<entry key="Cluster_53" type="xint" value="-16727041"/>
+<entry key="Cluster_54" type="xint" value="-16729601"/>
+<entry key="Cluster_25" type="xint" value="-65323"/>
+<entry key="Cluster_27" type="xint" value="-15925504"/>
+<entry key="Cluster_26" type="xint" value="-16711841"/>
+<entry key="Cluster_28" type="xint" value="-11272448"/>
+<entry key="Cluster_29" type="xint" value="-11008"/>
+<entry key="Cluster_39" type="xint" value="-56320"/>
+<entry key="Cluster_81" type="xint" value="-16747265"/>
+<entry key="Cluster_58" type="xint" value="-16749825"/>
+<entry key="Cluster_30" type="xint" value="-16711912"/>
+<entry key="Cluster_44" type="xint" value="-16754945"/>
+<entry key="Cluster_34" type="xint" value="-38144"/>
+<entry key="Cluster_32" type="xint" value="-1792"/>
+<entry key="Cluster_92" type="xint" value="-16762625"/>
+<entry key="Cluster_52" type="xint" value="-16765185"/>
+<entry key="Cluster_105" type="xint" value="-16767745"/>
+<entry key="Cluster_85" type="xint" value="-16770305"/>
+<entry key="Cluster_56" type="xint" value="-16772609"/>
+<entry key="Cluster_57" type="xint" value="-16775169"/>
+<entry key="Cluster_61" type="xint" value="-16580353"/>
+<entry key="Cluster_62" type="xint" value="-15924993"/>
+<entry key="Cluster_63" type="xint" value="-15269633"/>
+<entry key="Cluster_107" type="xint" value="-14614273"/>
+<entry key="Cluster_110" type="xint" value="-13958913"/>
+<entry key="Cluster_98" type="xint" value="-13303553"/>
+<entry key="Cluster_89" type="xint" value="-12648193"/>
+<entry key="Cluster_112" type="xint" value="-11992833"/>
+<entry key="Cluster_65" type="xint" value="-11337473"/>
+<entry key="Cluster_95" type="xint" value="-10682113"/>
+<entry key="Cluster_66" type="xint" value="-10026753"/>
+<entry key="Cluster_100" type="xint" value="-9371393"/>
+<entry key="Cluster_41" type="xint" value="-65536"/>
+<entry key="Cluster_69" type="xint" value="-8126209"/>
+<entry key="Cluster_70" type="xint" value="-7470849"/>
+<entry key="Cluster_122" type="xint" value="-6815489"/>
+<entry key="Cluster_43" type="xint" value="-6160129"/>
+<entry key="Cluster_71" type="xint" value="-5504769"/>
+<entry key="Cluster_72" type="xint" value="-4849409"/>
+<entry key="Cluster_47" type="xint" value="-4194049"/>
+<entry key="Cluster_82" type="xint" value="-3538689"/>
+<entry key="Cluster_113" type="xint" value="-2883329"/>
+<entry key="Cluster_83" type="xint" value="-2227969"/>
+<entry key="Cluster_46" type="xint" value="-1572609"/>
+<entry key="Cluster_48" type="xint" value="-917249"/>
+<entry key="Cluster_121" type="xint" value="-261889"/>
+<entry key="Cluster_136" type="xint" value="-65288"/>
+<entry key="Cluster_75" type="xint" value="-65298"/>
+<entry key="Cluster_119" type="xint" value="-65307"/>
+<entry key="Cluster_151" type="xint" value="-65317"/>
+<entry key="Cluster_80" type="xint" value="-65327"/>
+<entry key="Cluster_79" type="xint" value="-65337"/>
+<entry key="Cluster_129" type="xint" value="-65347"/>
+<entry key="Cluster_148" type="xint" value="-65357"/>
+<entry key="Cluster_93" type="xint" value="-65367"/>
+<entry key="Cluster_97" type="xint" value="-65377"/>
+<entry key="Cluster_126" type="xint" value="-65387"/>
+<entry key="Cluster_114" type="xint" value="-65397"/>
+<entry key="Cluster_115" type="xint" value="-65407"/>
+<entry key="Cluster_104" type="xint" value="-65417"/>
+<entry key="Cluster_147" type="xint" value="-65427"/>
+<entry key="Cluster_102" type="xint" value="-65437"/>
+<entry key="Cluster_94" type="xint" value="-65447"/>
+<entry key="Cluster_132" type="xint" value="-65457"/>
+<entry key="Cluster_108" type="xint" value="-65466"/>
+<entry key="Cluster_111" type="xint" value="-65476"/>
+<entry key="Cluster_91" type="xint" value="-65486"/>
+<entry key="Cluster_116" type="xint" value="-65496"/>
+<entry key="Cluster_117" type="xint" value="-65506"/>
+<entry key="Cluster_131" type="xint" value="-65516"/>
+<entry key="Cluster_140" type="xint" value="-65526"/>
+<config key="values">
+<entry key="array-size" type="xint" value="154"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_153"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_146"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_120"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_150"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_137"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_138"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_49"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_143"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_0"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_124"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_145"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_51"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_1"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_149"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_133"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_142"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_134"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_141"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_17"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_31"/>
+</config>
+</config>
+<config key="20">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_2"/>
+</config>
+</config>
+<config key="21">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_106"/>
+</config>
+</config>
+<config key="22">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_10"/>
+</config>
+</config>
+<config key="23">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_37"/>
+</config>
+</config>
+<config key="24">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_4"/>
+</config>
+</config>
+<config key="25">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_96"/>
+</config>
+</config>
+<config key="26">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_38"/>
+</config>
+</config>
+<config key="27">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_135"/>
+</config>
+</config>
+<config key="28">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_86"/>
+</config>
+</config>
+<config key="29">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_76"/>
+</config>
+</config>
+<config key="30">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_16"/>
+</config>
+</config>
+<config key="31">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_3"/>
+</config>
+</config>
+<config key="32">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_125"/>
+</config>
+</config>
+<config key="33">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_15"/>
+</config>
+</config>
+<config key="34">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_152"/>
+</config>
+</config>
+<config key="35">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_123"/>
+</config>
+</config>
+<config key="36">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_127"/>
+</config>
+</config>
+<config key="37">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_5"/>
+</config>
+</config>
+<config key="38">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_101"/>
+</config>
+</config>
+<config key="39">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_6"/>
+</config>
+</config>
+<config key="40">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_7"/>
+</config>
+</config>
+<config key="41">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_60"/>
+</config>
+</config>
+<config key="42">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_40"/>
+</config>
+</config>
+<config key="43">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_8"/>
+</config>
+</config>
+<config key="44">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_128"/>
+</config>
+</config>
+<config key="45">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_50"/>
+</config>
+</config>
+<config key="46">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_9"/>
+</config>
+</config>
+<config key="47">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_109"/>
+</config>
+</config>
+<config key="48">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_33"/>
+</config>
+</config>
+<config key="49">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_68"/>
+</config>
+</config>
+<config key="50">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_90"/>
+</config>
+</config>
+<config key="51">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_74"/>
+</config>
+</config>
+<config key="52">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_118"/>
+</config>
+</config>
+<config key="53">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_12"/>
+</config>
+</config>
+<config key="54">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_11"/>
+</config>
+</config>
+<config key="55">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_99"/>
+</config>
+</config>
+<config key="56">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_13"/>
+</config>
+</config>
+<config key="57">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_14"/>
+</config>
+</config>
+<config key="58">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_78"/>
+</config>
+</config>
+<config key="59">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_88"/>
+</config>
+</config>
+<config key="60">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_77"/>
+</config>
+</config>
+<config key="61">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_84"/>
+</config>
+</config>
+<config key="62">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_130"/>
+</config>
+</config>
+<config key="63">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_87"/>
+</config>
+</config>
+<config key="64">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_42"/>
+</config>
+</config>
+<config key="65">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_18"/>
+</config>
+</config>
+<config key="66">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_144"/>
+</config>
+</config>
+<config key="67">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_45"/>
+</config>
+</config>
+<config key="68">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_19"/>
+</config>
+</config>
+<config key="69">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_103"/>
+</config>
+</config>
+<config key="70">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_139"/>
+</config>
+</config>
+<config key="71">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_20"/>
+</config>
+</config>
+<config key="72">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_67"/>
+</config>
+</config>
+<config key="73">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_21"/>
+</config>
+</config>
+<config key="74">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_64"/>
+</config>
+</config>
+<config key="75">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_73"/>
+</config>
+</config>
+<config key="76">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_55"/>
+</config>
+</config>
+<config key="77">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_22"/>
+</config>
+</config>
+<config key="78">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_59"/>
+</config>
+</config>
+<config key="79">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_23"/>
+</config>
+</config>
+<config key="80">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_35"/>
+</config>
+</config>
+<config key="81">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_36"/>
+</config>
+</config>
+<config key="82">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_24"/>
+</config>
+</config>
+<config key="83">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_53"/>
+</config>
+</config>
+<config key="84">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_54"/>
+</config>
+</config>
+<config key="85">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_25"/>
+</config>
+</config>
+<config key="86">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_27"/>
+</config>
+</config>
+<config key="87">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_26"/>
+</config>
+</config>
+<config key="88">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_28"/>
+</config>
+</config>
+<config key="89">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_29"/>
+</config>
+</config>
+<config key="90">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_39"/>
+</config>
+</config>
+<config key="91">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_81"/>
+</config>
+</config>
+<config key="92">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_58"/>
+</config>
+</config>
+<config key="93">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_30"/>
+</config>
+</config>
+<config key="94">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_44"/>
+</config>
+</config>
+<config key="95">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_34"/>
+</config>
+</config>
+<config key="96">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_32"/>
+</config>
+</config>
+<config key="97">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_92"/>
+</config>
+</config>
+<config key="98">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_52"/>
+</config>
+</config>
+<config key="99">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_105"/>
+</config>
+</config>
+<config key="100">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_85"/>
+</config>
+</config>
+<config key="101">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_56"/>
+</config>
+</config>
+<config key="102">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_57"/>
+</config>
+</config>
+<config key="103">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_61"/>
+</config>
+</config>
+<config key="104">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_62"/>
+</config>
+</config>
+<config key="105">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_63"/>
+</config>
+</config>
+<config key="106">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_107"/>
+</config>
+</config>
+<config key="107">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_110"/>
+</config>
+</config>
+<config key="108">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_98"/>
+</config>
+</config>
+<config key="109">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_89"/>
+</config>
+</config>
+<config key="110">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_112"/>
+</config>
+</config>
+<config key="111">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_65"/>
+</config>
+</config>
+<config key="112">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_95"/>
+</config>
+</config>
+<config key="113">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_66"/>
+</config>
+</config>
+<config key="114">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_100"/>
+</config>
+</config>
+<config key="115">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_41"/>
+</config>
+</config>
+<config key="116">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_69"/>
+</config>
+</config>
+<config key="117">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_70"/>
+</config>
+</config>
+<config key="118">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_122"/>
+</config>
+</config>
+<config key="119">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_43"/>
+</config>
+</config>
+<config key="120">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_71"/>
+</config>
+</config>
+<config key="121">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_72"/>
+</config>
+</config>
+<config key="122">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_47"/>
+</config>
+</config>
+<config key="123">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_82"/>
+</config>
+</config>
+<config key="124">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_113"/>
+</config>
+</config>
+<config key="125">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_83"/>
+</config>
+</config>
+<config key="126">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_46"/>
+</config>
+</config>
+<config key="127">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_48"/>
+</config>
+</config>
+<config key="128">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_121"/>
+</config>
+</config>
+<config key="129">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_136"/>
+</config>
+</config>
+<config key="130">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_75"/>
+</config>
+</config>
+<config key="131">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_119"/>
+</config>
+</config>
+<config key="132">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_151"/>
+</config>
+</config>
+<config key="133">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_80"/>
+</config>
+</config>
+<config key="134">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_79"/>
+</config>
+</config>
+<config key="135">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_129"/>
+</config>
+</config>
+<config key="136">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_148"/>
+</config>
+</config>
+<config key="137">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_93"/>
+</config>
+</config>
+<config key="138">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_97"/>
+</config>
+</config>
+<config key="139">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_126"/>
+</config>
+</config>
+<config key="140">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_114"/>
+</config>
+</config>
+<config key="141">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_115"/>
+</config>
+</config>
+<config key="142">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_104"/>
+</config>
+</config>
+<config key="143">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_147"/>
+</config>
+</config>
+<config key="144">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_102"/>
+</config>
+</config>
+<config key="145">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_94"/>
+</config>
+</config>
+<config key="146">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_132"/>
+</config>
+</config>
+<config key="147">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_108"/>
+</config>
+</config>
+<config key="148">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_111"/>
+</config>
+</config>
+<config key="149">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_91"/>
+</config>
+</config>
+<config key="150">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_116"/>
+</config>
+</config>
+<config key="151">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_117"/>
+</config>
+</config>
+<config key="152">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_131"/>
+</config>
+</config>
+<config key="153">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cluster_140"/>
+</config>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.viz.property.color.ColorManager2NodeFactory"/>
+<entry key="node-name" type="xstring" value="Color Manager"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601211102"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Color Manager"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 5066, Cols: 4"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.viewproperty.ColorHandlerPortObject"/>
+<entry key="port_object_summary" type="xstring" value="Coloring on &quot;Cluster&quot;"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_2"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="002dfb0f-945f-416f-a7f1-78fcf9ae9dfd"/>
+</config>
+</config>
